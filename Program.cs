@@ -355,7 +355,7 @@ namespace ObesenecGame {
 
                             Console.WriteLine($"\n******************** CONGRATULATIONS ********************");
                             Console.WriteLine($"You have guessed the word in just {round} rounds.");
-                            Console.WriteLine($"You have {lives} lives letf");
+                            Console.WriteLine($"You have {lives} lives left");
                             Console.WriteLine("*********************************************************");
                             Console.WriteLine("Press any key to continue.");
                             Console.ReadKey();
